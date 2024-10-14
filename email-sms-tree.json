@@ -1,0 +1,6 @@
+
+    {
+      "type": "Action",
+      "actionType": "SendEmail",
+      "parameters": ["furqanSender@gmail.com", "furqanReceiver@gmail.com"]
+    }
